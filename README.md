@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stock Price Prediction Using LSTM
 
 This project leverages deep learning (LSTM) to predict stock prices based on historical data.
@@ -26,3 +27,6 @@ pip install -r requirements.txt
 
 
 python stock_prediction.py
+# stock-prediction-project
+Stock Price Prediction Using LSTM - A project that leverages deep learning to predict stock prices based on historical data.
+
