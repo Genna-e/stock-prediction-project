@@ -25,17 +25,17 @@ This project leverages deep learning (LSTM) to predict stock prices based on his
 3. Install the required dependencies:
 pip install -r requirements.txt
 
-Run the Python script to train the model and generate predictions:
+## Run the Python script to train the model and generate predictions:
 python stock_prediction.py
 
-Results
+## Results
 After running the script, a graph comparing real and predicted stock prices will be generated and saved as stock_prediction_graph.png.
 
-Future Improvements
+# Future Improvements
 Add multi-step forecasting to predict stock prices for several days ahead.
 Include more features like trading volume, technical indicators, and news sentiment analysis.
 Compare LSTM with other models like GRU and ARIMA for performance benchmarking.
-Contact
+## Contact
 If you have any questions or suggestions, feel free to contact me at:
 
 Email: ngamivirginia2@gmail.com
